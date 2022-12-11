@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=1-2
+Removed Pin From Net: NetName=VCC Pin=1-4
+Change Component Designator: OldDesignator=1 NewDesignator=3.3V_OUT
+Added Component: Designator=FUSE3(RESC3216X12N)
+Added Pin To Net: NetName=VCC Pin=FUSE3-1
+Added Pin To Net: NetName=Net3.3V_OUT_2 Pin=3.3V_OUT-2
+Added Pin To Net: NetName=Net3.3V_OUT_2 Pin=3.3V_OUT-4
+Added Pin To Net: NetName=Net3.3V_OUT_2 Pin=FUSE3-2
+Added Net: Name=Net3.3V_OUT_2

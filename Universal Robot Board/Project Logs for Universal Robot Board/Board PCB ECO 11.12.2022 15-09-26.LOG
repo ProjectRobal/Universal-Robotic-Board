@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetMOTOR_A1_1 Pin=PWM-3
+Removed Pin From Net: NetName=NetMOTOR_A1_2 Pin=PWM-4
+Removed Pin From Net: NetName=NetMOTOR_A1_3 Pin=PWM-5
+Removed Pin From Net: NetName=NetMOTOR_A1_16 Pin=PWM-6
+Removed Pin From Net: NetName=NetMOTOR_B1_1 Pin=PWM-7
+Removed Pin From Net: NetName=NetMOTOR_B1_2 Pin=PWM-8
+Removed Pin From Net: NetName=NetMOTOR_B1_3 Pin=PWM-9
+Removed Pin From Net: NetName=NetMOTOR_B1_16 Pin=PWM-10
+Removed Pin From Net: NetName=NetMOTOR_A1_1 Pin=SERVO_1-3
+Removed Pin From Net: NetName=NetMOTOR_B1_1 Pin=SERVO_2-3
+Removed Pin From Net: NetName=NetMOTOR_A1_2 Pin=SERVO_5-3
+Removed Pin From Net: NetName=NetMOTOR_B1_2 Pin=SERVO_6-3
+Removed Pin From Net: NetName=NetMOTOR_A1_3 Pin=SERVO_9-3
+Removed Pin From Net: NetName=NetMOTOR_B1_3 Pin=SERVO_10-3
+Removed Pin From Net: NetName=NetMOTOR_A1_16 Pin=SERVO_13-3
+Removed Pin From Net: NetName=NetMOTOR_B1_16 Pin=SERVO_14-3
+Added Pin To Net: NetName=NetMOTOR_B1_1 Pin=PWM-3
+Added Pin To Net: NetName=NetMOTOR_B1_2 Pin=PWM-4
+Added Pin To Net: NetName=NetMOTOR_B1_3 Pin=PWM-5
+Added Pin To Net: NetName=NetMOTOR_B1_16 Pin=PWM-6
+Added Pin To Net: NetName=NetMOTOR_A1_1 Pin=PWM-7
+Added Pin To Net: NetName=NetMOTOR_A1_2 Pin=PWM-8
+Added Pin To Net: NetName=NetMOTOR_A1_3 Pin=PWM-9
+Added Pin To Net: NetName=NetMOTOR_A1_16 Pin=PWM-10
+Added Pin To Net: NetName=NetMOTOR_B1_1 Pin=SERVO_1-3
+Added Pin To Net: NetName=NetMOTOR_A1_1 Pin=SERVO_2-3
+Added Pin To Net: NetName=NetMOTOR_B1_2 Pin=SERVO_5-3
+Added Pin To Net: NetName=NetMOTOR_A1_2 Pin=SERVO_6-3
+Added Pin To Net: NetName=NetMOTOR_B1_3 Pin=SERVO_9-3
+Added Pin To Net: NetName=NetMOTOR_A1_3 Pin=SERVO_10-3
+Added Pin To Net: NetName=NetMOTOR_B1_16 Pin=SERVO_13-3
+Added Pin To Net: NetName=NetMOTOR_A1_16 Pin=SERVO_14-3
+Added Class: Name=Board
+Added Class: Name=Motors
+Added Class: Name=Power
+Added Class: Name=Sensors

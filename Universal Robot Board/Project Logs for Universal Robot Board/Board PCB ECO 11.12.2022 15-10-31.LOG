@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetMOTOR_B1_1 Pin=PWM-3
+Removed Pin From Net: NetName=NetMOTOR_B1_16 Pin=PWM-6
+Removed Pin From Net: NetName=NetMOTOR_B1_1 Pin=SERVO_1-3
+Removed Pin From Net: NetName=NetMOTOR_B1_16 Pin=SERVO_13-3
+Added Pin To Net: NetName=NetMOTOR_B1_16 Pin=PWM-3
+Added Pin To Net: NetName=NetMOTOR_B1_1 Pin=PWM-6
+Added Pin To Net: NetName=NetMOTOR_B1_16 Pin=SERVO_1-3
+Added Pin To Net: NetName=NetMOTOR_B1_1 Pin=SERVO_13-3
